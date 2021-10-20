@@ -1,2 +1,2 @@
 # linkedart_ontology
-Linked Art ontology files, for use in crom and arches
+Linked Art ontology files, for use in Ruscha and Provenance Arches instances.
